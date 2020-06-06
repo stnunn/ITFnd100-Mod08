@@ -1,0 +1,6 @@
+Desk,700
+Computer,2000
+Lamp,70.5
+Pen,2.50
+Rubber Bands,3.45
+Chair,300
